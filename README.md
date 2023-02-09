@@ -14,6 +14,4 @@
   <a href="https://www.linkedin.com/in/jucymara-lacet/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/jucylacet/jucylacet/blob/output/github-contribution-grid-snake.svg)
 
-[![](https://visitcount.itsvg.in/api?id=jucylacet&icon=0&color=0)](https://visitcount.itsvg.in)
