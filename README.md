@@ -1,5 +1,8 @@
 ### Oi! Eu sou a Jucymara Lacet!
 
+- Estudante em Sistemas para Internet
+- No momento focada em Desenvolvimento Front-End
+
  <div>
   <a href="https://github.com/jucylacet">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jucylacet&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
